@@ -8,4 +8,4 @@ I have help from youtube video and stil trying to understand everything I do in 
 
 See This Website Here 
 
-[img]https://i.imgur.com/0UOA9Xc.jpg[/img]
+[Imgur](https://imgur.com/0UOA9Xc)
