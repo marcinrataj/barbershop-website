@@ -9,4 +9,5 @@ In the project directory, you can run:
 
 Just go to Index.html and open in browser
 
+THIS IS WHAT IT LOOKS LIKE:
 ![1](https://i.pinimg.com/originals/9c/ce/97/9cce97436783804af2147081ea288ddd.png)
