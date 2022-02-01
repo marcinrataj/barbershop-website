@@ -1,8 +1,3 @@
 # barbershop-website
-
-
-This is my next website. Hope it looks nice. 
-This time I decided to go to the site like a hairdresser, barber. 
-I have help from youtube video and stil trying to understand everything I do in code
-
+The website is made in HTML, CSS and JavaScript. It has a slide-out menu. Is in the style of a barber, hairdresser
 https://marcinrataj.github.io/barbershop-website/
